@@ -4,7 +4,7 @@ The goal of this project is to make the most simple rustlet possible. There are 
 
 # Building/Running
 
-To build/run, run the commands from the terminal.
+To build/run, run the following commands from the terminal.
 
 ```
 # git clone https://github.com/bitcoinmw/rustlet-simple
