@@ -14,5 +14,5 @@ To build/run, run the following commands from the terminal.
 # cargo run
 ```
 
-After that, you can access the "Hello World" servlet in your browser at http://localhost:8080/.
+After that, you can access the "Hello World" rustlet in your browser at http://localhost:8080/.
 
