@@ -9,7 +9,7 @@ To build/run, run the commands from the terminal.
 ```
 # git clone https://github.com/bitcoinmw/rustlet-simple
 
-# cd rustlet-simiple
+# cd rustlet-simple
 
 # cargo run
 ```
