@@ -1,5 +1,5 @@
 use librustlet::*; // use the librustlet library
-log::debug!(); // set log level to debug
+nioruntime_log::debug!(); // set log level to debug
 
 fn main() {
 	rustlet_init!(RustletConfig::default()); // initialize with the default config
