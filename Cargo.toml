@@ -4,4 +4,4 @@ version = "0.0.1"
 edition = "2018"
 
 [dependencies]
-librustlet = { git = "http://github.com/bitcoinmw/rustlet", tag = "0.0.1" }
+librustlet = { git = "http://github.com/37miners/rustlet", tag = "0.0.1" }
