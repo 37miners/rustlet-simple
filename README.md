@@ -21,5 +21,5 @@ To build/run, run the following commands from the terminal.
 ```
 
 After that, you can access the "Hello World" rustlet in your browser at http://localhost:8080/.
-Please note that using cargo run compiles in debug mode, so to get _MUCH_ better performance, use 'cargo build --release', then ./target/release/rustlet-example.
+Please note that using cargo run compiles in debug mode, so to get _MUCH_ better performance, use 'cargo build --release', then ./target/release/rustlet-simple.
 
